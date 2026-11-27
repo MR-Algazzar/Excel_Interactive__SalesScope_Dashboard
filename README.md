@@ -7,9 +7,7 @@ This project presents an interactive **Microsoft Excel sales and profitability d
 The dashboard is designed to help users compare the latest year's performance with the previous year, identify high-performing and declining product sub-categories and cities, monitor quarterly sales patterns, and explore the leading states by all-time sales. Its visual design uses a teal-and-green color palette, KPI cards, interactive slicers, comparison tables, and complementary charts.
 
 > **Dashboard Preview:**
->
-> <img width="1500" alt="Excel_Interactive__SalesScope_Dashboard" src="dashboard-preview.png" />
->
+> <img width="1630" height="879" alt="Excel_Interactive__SalesScope_Dashboard  " src="https://github.com/user-attachments/assets/08e6e1ba-703d-4d7d-b4ce-73775929101d" />
 > *The dashboard screenshot features six KPI cards, segment and category slicers, sub-category and city comparison tables, a quarterly sales and average-sales-per-unit combination chart, and a top-ten states-by-sales column chart.*
 
 ---
